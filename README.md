@@ -1,7 +1,5 @@
 # Crime-analysis-and-prediction
-# Project Name
-
-A brief description of your project goes here.
+ crime prediction system is a technological tool that uses data analysis and machine learning algorithms to forecast criminal activities and identify potential criminal hotspots. This system integrates various data sources, such as historical crime data, socioeconomic factors, weather patterns, and geographical information, to analyze patterns and trends. 
 
 ## Table of Contents
 
@@ -10,7 +8,7 @@ A brief description of your project goes here.
 - [Contact](#contact)
 
 ## Installation
-
+# Libraries 
 import numpy as np
 import pandas as pd
 import plotly.express as px
