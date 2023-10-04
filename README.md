@@ -7,8 +7,7 @@
 - [Usage](#usage)
 - [Contact](#contact)
 
-## Installation
-# Libraries 
+## Libraries 
 import numpy as np
 import pandas as pd
 import plotly.express as px
