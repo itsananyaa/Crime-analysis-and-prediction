@@ -5,12 +5,17 @@ A brief description of your project goes here.
 
 ## Table of Contents
 
-- [Installation](#Numpy , Matplotlib.pyplot, Ploty express)
+- [Installation](#Installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
 
+import numpy as np
+import pandas as pd
+import plotly.express as px
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
+## Usage 
